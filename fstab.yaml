@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/deffy1981/eds-corra-deffy/
+    type: markup
+
+folders:
+  /products/: /products/default
